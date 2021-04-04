@@ -310,7 +310,7 @@ a img.aligncenter {
 
 
 .fat-nav{
-	background: url(uploads/nav-bg.jpg)  center ;
+	/*background: url(uploads/nav-bg.jpg)  center ;
 	background-size: cover;
 
 }
@@ -381,7 +381,7 @@ a img.aligncenter {
     right: 0;
     background-color: #000;
     z-index: 0;
-    opacity: .6;
+    opacity: 0.2;
 }
 .heading{
 	color: #fff;
