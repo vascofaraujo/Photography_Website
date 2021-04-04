@@ -316,7 +316,7 @@ a img.aligncenter {
 }
 
 #mainNav.navbar-dark{
-	background: #851515;
+	background: transparent; /*color of initial navbar*/
 }
 
 .hamburger{
@@ -325,7 +325,7 @@ a img.aligncenter {
 	left: auto;
 }
 .hamburger__icon, .hamburger__icon::before, .hamburger__icon::after {
-    background-color: #333333;
+    background-color: #000000; /*color of button top-right*/
 	width: 35px;
 	height: 4px;
 }
@@ -466,7 +466,7 @@ xclip
 #mainNav.navbar-shrink {
     padding-top: 10px;
     padding-bottom: 10px;
-    background-color: #851515;
+    background-color: #ffffff; /*color of navbar when scroll down*/
 }
 
 #clouds{
