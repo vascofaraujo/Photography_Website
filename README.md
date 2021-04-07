@@ -1,3 +1,1 @@
-﻿Photography Portfolio - In the making!
- 
- https://vascofaraujo.github.io/Photography_Website/
+Old version, for new check https://github.com/vascofaraujo/Portfolio
